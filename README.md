@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on Github
-- 📫 I want to do Freelance Job 
+- 📫 I'm looking for Freelance Job 
  
 <!---
 Saurabh52-alt/Saurabh52-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
